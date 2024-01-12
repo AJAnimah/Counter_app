@@ -53,3 +53,6 @@ Click the "Reset" button to set the counter value to 0.
 
 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
+
+License
+This project is licensed under the https://github.com/AJAnimah/Counter_app
